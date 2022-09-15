@@ -1,4 +1,4 @@
-[![MasterHead](https://codebuckets.com/wp-content/uploads/2020/08/AI-A-Z.jpg)](https://VeronikaLo.io)
+[![MasterHead](https://www.fadata.eu/hs-fs/hubfs/AI-Banner-3.png?width=1906&height=478&name=AI-Banner-3.png)](https://VeronikaLo.io)
 <h2 align="center">Hi 👋, I'm Veronika</h2>
 <h3 align="center">A passionate frontend and mobile developer</h3>
 
