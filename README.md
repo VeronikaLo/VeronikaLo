@@ -1,6 +1,10 @@
 [![MasterHead](https://www.fadata.eu/hs-fs/hubfs/AI-Banner-3.png?width=1906&height=478&name=AI-Banner-3.png)](https://VeronikaLo.io)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&width=600&lines=Welcome+To+My+Github+Profile..)](https://git.io/typing-svg)
+
+
 <h2 align="center">Hi 👋, I'm Veronika</h2>
-<h3 align="center">A passionate frontend and mobile developer</h3>
+<h3 align="center">A passionate Flutter and Web developer</h3>
 
 - 🌱 I’m currently learning **Flutter/ Dart**
 
